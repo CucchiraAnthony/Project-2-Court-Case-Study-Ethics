@@ -41,7 +41,5 @@ Deliverables & Grading
 ---
 
 References
-- ACM Code of Ethics: [https://www.acm.org/code-of-ethics](https://www.acm.org/code-of-ethics)  
-- IEEE Code of Ethics: [https://www.ieee.org/about/corporate/governance/ethics.html](https://www.ieee.org/about/corporate/governance/ethics.html)  
 
 ---
